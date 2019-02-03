@@ -10,5 +10,5 @@ It follows @philtweir's [FOSDEM presentation](https://flaxandteal.github.io/fosd
 
 A couple of diagrams based off presentation content are here too...
 
-* https://github.com/flaxandteal/consorting-docs/blob/master/images/workflow.png : Workflow for a coordinators, i.e. everyone
+* https://github.com/flaxandteal/consorting-docs/blob/master/images/workflow.png : Workflow for coordinators, i.e. everyone
 * https://github.com/flaxandteal/consorting-docs/blob/master/images/contracting.png : Where our structure fits with other models (bear in mind, these are very rough, hand-wavey definitions, every coop, freelance group and startup works differently!)
